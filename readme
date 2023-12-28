@@ -1,0 +1,29 @@
+# Data Visualization Project/Task IIT-Bombay
+
+## Overview
+
+This project includes visualizations based on different datasets. The visualizations have been created using Python and various data visualization libraries. (Matplotlib,Seaborn)
+
+The Visualization Graphs are based on updated data over the data sources. Data Sources and Dataset's are been mentioned in the Collab Notebook and Repository. Upload the Datasets in Runtime of Google Collab and Run all the Cell's collectively. 
+
+Note: The Graphs are been followed from the given sources and problem statment of the project.
+
+## Graphs
+
+### Graph 1: German Birth Rate Decline Graph
+
+Description: This graph illustrates the decline in the birth rate in Germany over a specific time period.
+
+### Graph 2: Israel’s Largest Spike in Deaths in Recent History
+
+Description: This graph depicts the largest spike in deaths in Israel's recent history, including z-scores and threshold indicators.
+
+### Graph 3: Strange Pandemic: More Deaths in Ending Year (USA)
+
+Description: This graph explores the peculiar trend of more deaths in the USA towards the end of a specific year during a pandemic.
+
+## Conclusion
+
+Feel free to explore and interpret the visualizations to gain insights from the presented data.
+
+
